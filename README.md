@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Edgar Nain
 
-<!--
-**NainCS/NainCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Data Science student at the National College of Ireland in Dublin.
+I build data pipelines and I'm most interested in data engineering, with a
+background in analytics and machine learning from my degree.
 
-Here are some ideas to get you started:
+Looking for a 6-month internship in data engineering, analytics or data science
+from January 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Data engineering (used in pipeline project)
+Python · SQL · dbt · Apache Airflow · Databricks · Airbyte · PostgreSQL · Docker
+
+### 📊 Data science & analytics (coursework)
+Pandas · NumPy · scikit-learn · Seaborn · Tableau · Jupyter
+
+### 🚀 Featured project
+**[Walmart Data Pipeline](https://github.com/NainCS/walmart-data-pipeline)**
+
+Supabase → Airbyte → Databricks → dbt, orchestrated daily by Airflow.
+Kimball star schema with SCD Type 2 dimensions, 40 data-quality tests, and a fix
+for a join bug that inflated the fact table.
+
+### 🌱 Currently learning
+- Streaming pipelines with Kafka and Flink
+- Data structures and algorithms
+- Hadoop
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/edgar-camacho-sandoval/) · naincamacho97@gmail.com
+
+
